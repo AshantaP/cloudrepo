@@ -1,3 +1,3 @@
 #! /bin/bash
 
-sudo echo "Hi, Welcome to my new devops site" > /var/www/html/index.html
+sudo echo "Welcome to my first devops link" > /var/www/html/index.html
